@@ -18,8 +18,11 @@ import {
 import profile from "./assets/profile.png";
 
 const skills = [
+  "HTML", 
+  "CSS",
   "React JS",
   "Redux",
+  "JavaScript",
   "TypeScript",
   "Tailwind CSS",
   "Node JS",
